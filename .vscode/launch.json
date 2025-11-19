@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LoQuieresTeLoVendoApplication<LoQuieresTeLoVendo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.demo.LoQuieresTeLoVendo.LoQuieresTeLoVendoApplication",
+            "projectName": "LoQuieresTeLoVendo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
